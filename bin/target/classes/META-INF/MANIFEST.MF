@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Kartel
+Build-Jdk: 13.0.1
+Implementation-Title: myapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.corporation.tax
+Implementation-URL: http://maven.apache.org
+Main-Class: com.corporation.tax.myapp.config.SpringBatchApplication
+Created-By: Maven Integration for Eclipse
+
